@@ -19,3 +19,8 @@ Thumbs.db
 
 # Logs
 *.log
+
+node_modules/
+frontend/node_modules/
+.cache/
+__pycache__/
